@@ -189,6 +189,7 @@ import EditableCard from './EditableCard.vue';
 </script>
 <style lang="scss" scoped>
 .card-container{
+position: relative;
   @media only screen and (min-width: 400px) {
     width: 190px;
     height: 170px;
