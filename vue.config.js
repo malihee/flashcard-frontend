@@ -15,6 +15,6 @@ module.exports = {
   ],
   pwa: {
     name: "Fancy FlashCard",
-    themeColor: "#610A26"
+   // themeColor: "#610A26"
   }
 };
