@@ -1,5 +1,6 @@
 <template>
    <v-text-field
+   dark
    class="searchbar"
     placeholder="search"
     rounded
