@@ -21,14 +21,14 @@
                   <v-list-item >
             <v-list-item-content>
               <v-list-item-title>
-                  memorized : {{$store.state.cards.filter(item=>item.memorized==true).length}}
+                  mem : {{$store.state.cards.filter(item=>item.memorized==true).length}}
                 </v-list-item-title> 
                 </v-list-item-content>
              </v-list-item>   
               <v-list-item >
             <v-list-item-content>
                  <v-list-item-title>
-                  unmemorized : {{$store.state.cards.filter(item=>item.memorized==false).length}}
+                  unmem : {{$store.state.cards.filter(item=>item.memorized==false).length}}
                 </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
