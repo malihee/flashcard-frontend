@@ -14,7 +14,7 @@ module.exports = {
     'vuetify'
   ],
   pwa: {
-    name: "East to use FlashCard",
-    themeColor: "#ffd100"
+    name: "Fancy FlashCard",
+    themeColor: "#610A26"
   }
 };
