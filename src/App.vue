@@ -10,7 +10,7 @@
       <router-link class="router-link" to="/">
        <v-btn icon>
         <v-icon
-        
+        color="white"
           v-bind="attrs"
           v-on="on"
         >
@@ -30,7 +30,7 @@
         
        <v-btn icon>
         <v-icon
-       
+        color="white"
             v-bind="attrs"
             v-on="on"
           >
@@ -52,7 +52,7 @@
         <v-btn 
         icon>
           <v-icon
-         
+         color="white"
             v-bind="attrs"
             v-on="on"
           >
@@ -119,7 +119,7 @@ export default {
   text-decoration: none;
 }
 #bar{
- // background-color: #610A26;
+ background-color: #610A26;
   position: fixed;
   z-index: 1;
   height: 60px;
