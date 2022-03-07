@@ -49,12 +49,14 @@
             <v-list-item-title>New Word</v-list-item-title>
           </v-list-item>
         </router-link>
+        <!-- This is a comment
           <v-list-item link>
             <v-list-item-icon>
               <v-icon>mdi-trash-can-outline</v-icon>
             </v-list-item-icon>
             <v-list-item-title>Delete</v-list-item-title>
           </v-list-item>
+           -->
       <router-link class="router-link" to="/favorites">
           <v-list-item link active-class="router-link-active">
             <v-list-item-icon>
