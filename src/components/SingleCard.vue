@@ -32,9 +32,10 @@
             </template>
 
             <v-list>
+            <!-- This is a comment 
               <v-list-item @click="edit_card()"> 
               <v-list-item-title>Edit</v-list-item-title>
-              </v-list-item>
+              </v-list-item> -->
               <v-list-item @click="delete_card()">
               <v-list-item-title>Delete</v-list-item-title>
               </v-list-item>
